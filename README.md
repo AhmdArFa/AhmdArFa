@@ -1,243 +1,142 @@
 <div align="center">
 
-<!-- Profile Avatar & Header -->
-<a href="https://arafa-a.lovable.app/">
-  <img src="./assets/images/profile.jpeg" width="140" height="140" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 4px 20px rgba(0, 212, 255, 0.4); object-fit: cover;" alt="Ahmed Gamal Arfa" />
-</a>
-
-# Ahmed Gamal Arfa
-### 🚀 Data & AI Engineer | Machine Learning Specialist | Full-Stack & Backend Architect
-**Microsoft & Google Certified | MCIT DEPI Engineering Team Member**
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Microsoft+Certified+Fabric+%26+Power+BI+Analyst;Full-Stack+Architect+(FastAPI+%2B+React);Building+Enterprise+AI+%26+ETL+Pipelines" alt="Typing SVG" />
-</p>
-
-<!-- Quick Action Badges -->
-<p align="center">
-  <a href="https://arafa-a.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-arafa--a.lovable.app-0284C7?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-gamal-arfa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Gamal_Arfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anaarafa2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anaarafa2019%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://mostaql.com/u/Ahmed_gaml23" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-Freelance-238636?style=for-the-badge&logo=freelancer&logoColor=white" alt="Mostaql" />
-  </a>
-  <a href="https://khamsat.com/user/arafa_a" target="_blank">
-    <img src="https://img.shields.io/badge/Khamsat-Services-E67E22?style=for-the-badge" alt="Khamsat" />
-  </a>
-</p>
-
----
+<img src="assets/hero.svg" alt="Ahmed Gamal Arfa, Data and AI Engineer, Full-Stack Architect and Microsoft & Google Certified Specialist" width="100%">
 
 </div>
 
-## 👨‍💻 Professional Summary
+## Hi, I'm Ahmed
 
-Results-driven **Data & AI Engineer** and **Software Architect** with demonstrated experience building production-grade machine learning pipelines, robust backend architectures, and high-impact business intelligence solutions:
+I turn complex data into actionable intelligence, build resilient full-stack systems, and teach machines to see and reason.
+My trajectory connects data engineering, enterprise business intelligence, and production AI: I care about data integrity, model precision, backend resilience, and shipping software that solves real operational problems.
+Today I'm a **Data & AI Engineer** and core engineering contributor to the **DEPI Applicant Validation Platform** under the **Egyptian Ministry of Communications and Information Technology (MCIT)**.
 
-- 🏛️ **National & Enterprise Systems**: Core contributor to the applicant auditing and document validation system for the **Digital Egypt Pioneers Initiative (DEPI)** under the **Ministry of Communications and Information Technology (MCIT)**, handling thousands of candidates with intelligent OCR document verification and dual-sync database engines.
-- 📊 **Business Intelligence & Advanced Analytics**: Engineered enterprise-grade **Power BI** executive dashboards and automated **SQL ETL** pipelines, slashing managerial reporting cycles by **60%** and uncovering actionable growth metrics.
-- 🤖 **Computer Vision, ML & Generative AI**: Architected state-of-the-art computer vision models (**YOLOv8** & **ResNet-50**) achieving **>97% accuracy** for agricultural quality grading, alongside custom **RAG** and **LLM** conversational agents.
-- ⚙️ **High-Performance APIs & Full-Stack**: Built secure, scalable RESTful services powered by **FastAPI**, **MongoDB**, **PostgreSQL**, and modern **React 19** with role-based access control (RBAC) and JWT authentication.
+```yaml
+name:        Ahmed Gamal Arfa
+now:         Data & AI Engineer · DEPI Applicant Validation Platform (MCIT)
+before:      Full-Stack Developer · Data Analyst & BI Specialist
+focus:       data pipelines · computer vision · LLMs & RAG · business intelligence · APIs
+location:    Cairo, Egypt
+languages:   Arabic (native), English (professional working)
+```
 
----
+## The training curve
 
-## 🏆 International Certifications & Credentials
+Every epoch is an iteration. I built my foundation in software engineering and data analytics, earning a Bachelor of Information Technology with Distinction with Honors. I immersed myself in real-world data pipelines and BI dashboards, earned professional certifications from Microsoft (**Fabric Analytics Engineer Associate** and **PL-300 Power BI Data Analyst Associate**) and Google (**Data Analytics Professional Certificate**), and advanced into applied computer vision, RAG architectures, and scalable FastAPI/React full-stack engineering.
 
-| Issuing Body | Credential Title | Details & Verification |
-|:---|:---|:---|
-| **Microsoft** | 🏅 **Fabric Analytics Engineer Associate** | Officially Certified (2026–2027) |
-| **Microsoft** | 🏅 **Power BI Data Analyst Associate (PL-300)** | Officially Certified (2026–2027) |
-| **Google** | 📜 **Google Data Analytics Professional Certificate** | Completed All 8 Specialization Courses |
-| ↳ *Course 1* | Foundations: Data, Data, Everywhere | [Verify on Coursera](https://coursera.org/verify/S23651PTKDWB) • [PDF Certificate](./assets/certificates/google-foundations-data.pdf) |
-| ↳ *Course 2* | Ask Questions to Make Data-Driven Decisions | [Verify on Coursera](https://coursera.org/verify/YOR8X7CUIG9K) • [PDF Certificate](./assets/certificates/google-ask-questions.pdf) |
-| ↳ *Course 3* | Prepare Data for Exploration | [Verify on Coursera](https://coursera.org/verify/KQN3572RFIWW) • [PDF Certificate](./assets/certificates/google-prepare-data.pdf) |
-| ↳ *Course 4* | Process Data from Dirty to Clean | [Verify on Coursera](https://coursera.org/verify/NV6IXEMV2XKY) • [PDF Certificate](./assets/certificates/google-process-data.pdf) |
-| ↳ *Course 5* | Analyze Data to Answer Questions | [Verify on Coursera](https://coursera.org/verify/Z1H7JVQL6YNN) • [PDF Certificate](./assets/certificates/google-analyze-data.pdf) |
-| ↳ *Course 6* | Share Data Through the Art of Visualization | [Verify on Coursera](https://coursera.org/verify/96USRGISXFWY) • [PDF Certificate](./assets/certificates/google-share-data-visualization.pdf) |
-| **AWS & Manara** | ☁️ **AWS: Machine Learning Engineer & AI Practitioner** | Applied Track & Production AI |
-| **Stanford & DeepLearning.AI** | 🧠 **Supervised Machine Learning: Regression & Classification** | Directed by Prof. Andrew Ng |
-| **Duke University** | 🔗 **Retrieval-Augmented Generation (RAG) & LLMs** | Applied Generative AI Systems |
-| **MathWorks** | 🖼️ **Image Processing & Segmentation** | Digital Image Processing & Feature Extraction |
-| **ITI** | 🗄️ **Database Fundamentals** | Information Technology Institute (MCIT) |
+Today, my models and pipelines don't stay trapped in notebooks—they run in production systems serving thousands of users.
 
-> 🔗 Complete digital verification portfolio available at: [arafa-a.lovable.app](https://arafa-a.lovable.app/)
+## Three disciplines, one loop
 
----
+```mermaid
+flowchart LR
+    A["Extract & Model<br/>SQL · Fabric · MongoDB"] --> B["Analyze & Visualize<br/>Power BI · DAX · Dashboards"]
+    B --> C["Predict & Reason<br/>PyTorch · YOLO · LLMs & RAG"]
+    C --> D["Deploy & Serve<br/>FastAPI · React 19 · Azure"]
+    D -. feedback & sync .-> A
+```
 
-## 🛠️ Technical Arsenal
+| Discipline | What it means in practice |
+|---|---|
+| **Data & BI** | Microsoft Fabric, Power BI (PL-300), DAX, and SQL. I model relational structures and build executive dashboards that cut reporting cycles by 60% and clarify business drivers. |
+| **Machine Learning & AI** | Object detection with YOLOv8, deep classification with ResNet-50, Scikit-learn tabular models (97%+ accuracy), and RAG conversational pipelines for real-world domains. |
+| **Backend & Architecture** | High-throughput asynchronous FastAPI services, JWT security, RBAC authorization, and automated dual-synchronization engines between MongoDB and Excel. |
+| **Ship & Scale** | Production deployments on Microsoft Azure, Docker containers, resilient self-healing architectures, and responsive React 19 / Tailwind interfaces. |
 
-<div align="center">
+## Selected work
 
-### 🧠 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![RAG & LLMs](https://img.shields.io/badge/RAG_%26_LLMs-8A2BE2?style=for-the-badge)
-![Document OCR](https://img.shields.io/badge/OCR_Pipelines-0284C7?style=for-the-badge)
+| Project | What it is | Stack |
+|---|---|---|
+| [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
+| [**NILEX.AI**](https://github.com/AhmdArFa/Nilex-Web) | Smart agro-export decision-support system featuring sub-3s YOLOv8n fruit detection and ResNet-50 citrus disease classification. | PyTorch, YOLOv8, ResNet-50, Azure, Power BI, FastAPI |
+| **Pizza Sales BI Dashboard** | Executive Business Intelligence dashboard analyzing $817.8K+ revenue, 48.6K+ orders, and operational KPIs. | Power BI, DAX Measures, Power Query, Data Modeling |
+| [**Global Superstore Analytics**](https://github.com/AhmdArFa/Analysis-for-Orders) | Geospatial and financial analytics across 4,117 retail orders, tracking category profitability and regional margins. | Power BI, Geospatial Mapping, DAX, SQL |
+| **ML Model Evaluation Suite** | End-to-end classification benchmarking pipeline with confusion matrix heatmaps, ROC-AUC, and 97%+ accuracy. | Python, Scikit-learn, Seaborn, Matplotlib |
 
-### 📊 Data Engineering & Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX & PowerQuery](https://img.shields.io/badge/DAX_%26_PowerQuery-333333?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-059669?style=for-the-badge)
+<details>
+<summary><b>Inside DEPI Validation Solution</b>: dual-sync and self-healing architecture</summary>
 
-### ⚙️ Backend & Full-Stack Development
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
 
-### ☁️ Cloud, DevOps & Environment
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```mermaid
+flowchart LR
+    A["Incoming Application Documents<br/>(National IDs, Certificates)"] --> B["FastAPI Backend<br/>Async Document Processing"]
+    B --> C["Interactive Canvas<br/>Zoom, Rotate & OCR Verification"]
+    B --> D[("MongoDB Database<br/>Audit Records")]
+    D <--> E{"Dual-Sync Engine<br/>Windows Lock Resilience"}
+    E <--> F[("Excel Records<br/>Supervisors")]
+```
 
-</div>
+Designed to solve synchronization bottlenecks in government scholarship auditing, the platform features a **Dual-Sync engine** linking MongoDB with supervisor Excel sheets without file corruption, complemented by a **Self-Healing Master Admin** recovery routine.
 
----
+</details>
 
-## 🚀 Featured Flagship Projects
+<details>
+<summary><b>Inside NILEX.AI</b>: dual-model vision pipeline with sub-3s inference</summary>
 
-### 1. 🏛️ [DEPI Applicant Validation & Audit Solution](https://github.com/MCIT-DEPI/DEPI-Validation-Solution)
-> **National-scale applicant verification and document audit platform for the Ministry of Communications & Information Technology (MCIT - DEPI)**
+<br>
 
-- **Architecture**: Scalable asynchronous **FastAPI** backend integrated with **MongoDB** and modern **React 19** frontend.
-- **Dual-Sync Synchronization**: Engine bridging MongoDB with live Excel files, designed with Windows file-lock bypass algorithms to prevent data loss.
-- **Self-Healing Infrastructure**: Resilience mechanisms with self-healing superadmin recovery and automated auditing traces.
-- **Smart Inspection Canvas**: Interactive inspection canvas allowing dynamic zoom, rotate, and multi-angle verification of national ID cards and academic certificates.
+```mermaid
+flowchart LR
+    A[Citrus Harvest Imagery] --> B["YOLOv8n Detector<br/>mAP@0.5:0.95 = 0.81"]
+    B --> C["Cropped Fruit Patches"]
+    C --> D["ResNet-50 Classifier<br/>Macro-F1 = 0.978"]
+    D --> E["Quality Grading & Disease Diagnosis<br/>Inference < 3s on Azure"]
+```
 
----
+Combines fruit localization and pathology grading into a single cloud microservice deployed on **Microsoft Azure**, augmented by an Arabic voice assistant and Power BI telemetry.
 
-### 2. 🍊 [NILEX.AI — Smart Agro-Export Intelligence Ecosystem](https://github.com/AhmdArFa/Nilex-Web)
-> **AI decision-support and computer vision platform for export-grade citrus sorting and disease inspection**
+</details>
 
-- **Computer Vision Pipeline**: High-precision dual-model stack combining **YOLOv8n** for real-time fruit detection (`mAP@0.50:0.95 = 0.81`) and **ResNet-50** for disease classification (`Macro-F1 = 0.978`) with inference latency under 3 seconds.
-- **Cloud Microservices**: Deployed on **Microsoft Azure** with **PostgreSQL** relational storage and **Power BI** analytical telemetry.
-- **Generative AI Assistant**: Integrated domain-specific **RAG** knowledge base with Arabic Speech-to-Text capability for field operators.
+<details>
+<summary><b>Inside the Analytics Dashboards</b>: interactive visual telemetry</summary>
 
----
-
-### 3. 🍕 Pizza Sales Performance & Executive BI Dashboard
-> **Interactive Business Intelligence dashboard engineered in Power BI for comprehensive sales and operational telemetry**
-
-- **Key Highlights & KPIs**:
-  - Analyzed **$817,860** in total revenue across **48,620** orders and **49,574** pizzas sold.
-  - Granular breakdown of top 10 bestselling pizzas, category contributions, and size preferences.
-  - DAX time-intelligence metrics tracking weekday vs. weekend spikes and monthly seasonality.
-- **Tech Stack**: Power BI, DAX Measures, Power Query ETL, Dimensional Data Modeling.
+<br>
 
 <p align="center">
-  <img src="./assets/images/pizza-sales-dashboard.png" width="92%" alt="Pizza Sales Dashboard" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+  <img src="assets/images/pizza-sales-dashboard.png" width="95%" alt="Pizza Sales Dashboard">
+  <br><sub><b>Figure 1:</b> Power BI Sales Performance & Operational Telemetry ($817K+ Revenue, 48.6K+ Orders)</sub><br><br>
+  <img src="assets/images/superstore-sales-dashboard.png" width="95%" alt="Superstore Sales Dashboard">
+  <br><sub><b>Figure 2:</b> Global Retail Superstore Sales & Distribution Analytics (4,117 Orders)</sub><br><br>
+  <img src="assets/images/ml-model-evaluation.png" width="85%" alt="ML Model Evaluation">
+  <br><sub><b>Figure 3:</b> Supervised ML Diagnostic Matrix & Multi-Class Classification Performance</sub>
 </p>
 
----
+</details>
 
-### 4. 🎯 Machine Learning Pipeline & Model Evaluation Suite
-> **End-to-end classification benchmarking pipeline with comprehensive diagnostic metrics and visual telemetry**
+## How I work
 
-- **Key Highlights & KPIs**:
-  - Implemented multi-model evaluation achieving **>97% classification accuracy**.
-  - Generated automated diagnostic reports including precision, recall, F1-score, and ROC-AUC curves.
-  - Seaborn and Matplotlib customized heatmaps for in-depth confusion matrix error inspection.
-- **Tech Stack**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+- **Data integrity first.** If the ingestion pipeline is compromised, every downstream metric and model is meaningless.
+- **Measure before claiming.** Real numbers from rigorous validation over assumptions (precision, recall, mAP, and business ROI).
+- **Engineered for production.** A model that only exists in a Jupyter notebook never solved an actual business problem.
+- **Self-healing and fault-tolerant.** Design systems to anticipate failures, network spikes, and concurrent file locks.
 
-<p align="center">
-  <img src="./assets/images/ml-model-evaluation.png" width="85%" alt="ML Model Evaluation" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-</p>
+## Toolbox
 
----
+| Area | What I use |
+|---|---|
+| AI and Vision | Python, PyTorch, YOLOv8, ResNet-50, OpenCV, Scikit-learn, RAG, LLMs, Document OCR |
+| Data and BI | Microsoft Fabric, Power BI, DAX, Power Query, SQL Server, PostgreSQL, MongoDB, Pandas, NumPy |
+| Backend and APIs | FastAPI, RESTful APIs, JWT Authentication, RBAC, Python AsyncIO, Node.js |
+| Front-end and Design | React 19, Vite, Tailwind CSS, JavaScript, HTML5/CSS3, UI/UX Design |
+| Cloud and DevOps | Microsoft Azure, AWS, Docker, Git, GitHub, Linux, Postman |
 
-### 5. 🌍 [Global Superstore Sales & Distribution Analytics](https://github.com/AhmdArFa/Analysis-for-Orders)
-> **Geospatial and financial analytics dashboard analyzing global retail transactions and customer segment profitability**
+## Credentials
 
-- **Key Highlights & KPIs**:
-  - Analyzed **4,117** global customer orders across Consumer, Corporate, and Home Office segments.
-  - Deep-dive into unit price variations (up to **$453K** peak categories), discounts, and net margins.
-  - Global choropleth map tracking regional sales velocity and market penetration.
-- **Tech Stack**: Power BI, Geospatial Modeling, DAX, Advanced Filtering.
+- **Microsoft Certified: Fabric Analytics Engineer Associate** (2026–2027)
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (2026–2027)
+- **Google Data Analytics Professional Certificate** (Complete 8-Course Specialization, 2026)
+  - [Foundations: Data, Data, Everywhere](https://coursera.org/verify/S23651PTKDWB) · [Ask Questions to Make Decisions](https://coursera.org/verify/YOR8X7CUIG9K)
+  - [Prepare Data for Exploration](https://coursera.org/verify/KQN3572RFIWW) · [Process Data from Dirty to Clean](https://coursera.org/verify/NV6IXEMV2XKY)
+  - [Analyze Data to Answer Questions](https://coursera.org/verify/Z1H7JVQL6YNN) · [Share Data Through Visualization](https://coursera.org/verify/96USRGISXFWY)
+- **AWS & Manara**: Machine Learning Engineer & AI Practitioner (2026)
+- **Stanford Online & DeepLearning.AI**: Supervised Machine Learning: Regression & Classification (Andrew Ng)
+- **Duke University**: Retrieval-Augmented Generation (RAG)
+- **MathWorks**: Image Processing and Image Segmentation
+- **Information Technology Institute (ITI)**: Database Fundamentals
+- **Bachelor of Information Technology**, Distinction with Honors
 
-<p align="center">
-  <img src="./assets/images/superstore-sales-dashboard.png" width="92%" alt="Global Superstore Sales Dashboard" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-</p>
+## Get in touch
 
----
+I'm open to conversations about data engineering, applied AI / computer vision, and high-performance backend systems.
 
-### 6. 🥧 Advanced Multi-Dimensional Pizza Analytics
-> **Advanced circular and gauge visualization suite evaluating operational and fulfillment distributions**
-
-- **Key Highlights**:
-  - Specialized radial visualizations monitoring order distribution across peak operational windows.
-  - Comprehensive dimension drill-downs by pizza category, crust size, and preferred payment channels.
-- **Tech Stack**: Power BI / Tableau, Advanced Data Visualization.
-
-<p align="center">
-  <img src="./assets/images/advanced-pizza-analytics.png" width="92%" alt="Advanced Pizza Analytics" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-</p>
-
----
-
-## 📊 Live GitHub Telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmdArFa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmdArFa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="47%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AhmdArFa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
-
----
-
-## 💼 Freelance Services & Consultation
-
-Available for specialized consulting and delivery in:
-- 📊 **Power BI & Business Intelligence**: Custom dashboards, complex DAX formulation, and automated reporting.
-- 🗄️ **Data Engineering & ETL**: SQL architecture, data warehouse modeling, and cross-platform automated pipelines.
-- 🤖 **Applied Machine Learning & AI**: Computer vision, classification models, document OCR, and custom RAG solutions.
-- ⚡ **Backend & API Engineering**: High-throughput FastAPI backends, secure auth systems, and cloud integration.
-
-<div align="center">
-
-[![Mostaql](https://img.shields.io/badge/Mostaql-Freelance_Profile-238636?style=for-the-badge&logo=freelancer&logoColor=white)](https://mostaql.com/u/Ahmed_gaml23)
-[![Khamsat](https://img.shields.io/badge/Khamsat-Services_Catalog-E67E22?style=for-the-badge)](https://khamsat.com/user/arafa_a)
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-arafa--a.lovable.app-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arafa-a.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Gamal_Arfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gamal-arfa/)
-[![Email](https://img.shields.io/badge/Email-anaarafa2019%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaarafa2019@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AhmdArFa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmdArFa)
-
-<br/>
-
-*"Transforming complex data into actionable intelligence and engineering resilient, intelligent software systems."*
-
-</div>
+[Portfolio](https://arafa-a.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/ahmed-gamal-arfa/) · [Email](mailto:anaarafa2019@gmail.com) · [Mostaql](https://mostaql.com/u/Ahmed_gaml23) · [Khamsat](https://khamsat.com/user/arafa_a)
