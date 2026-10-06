@@ -47,6 +47,7 @@ flowchart LR
 | Project | What it is | Stack |
 |---|---|---|
 | [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
+| [**Hologram Vision & Gesture Suite**](https://github.com/AhmdArFa/hand-automation) | Real-time computer vision suite controlling interactive 3D holograms, sacred geometry & AR bio-scanners via hand gestures. | MediaPipe, OpenCV, Python, Three.js, FastAPI |
 | [**NILEX.AI**](https://github.com/AhmdArFa/Nilex-Web) | Smart agro-export decision-support system featuring sub-3s YOLOv8n fruit detection and ResNet-50 citrus disease classification. | PyTorch, YOLOv8, ResNet-50, Azure, Power BI, FastAPI |
 | **Pizza Sales BI Dashboard** | Executive Business Intelligence dashboard analyzing $817.8K+ revenue, 48.6K+ orders, and operational KPIs. | Power BI, DAX Measures, Power Query, Data Modeling |
 | [**Global Superstore Analytics**](https://github.com/AhmdArFa/Analysis-for-Orders) | Geospatial and financial analytics across 4,117 retail orders, tracking category profitability and regional margins. | Power BI, Geospatial Mapping, DAX, SQL |
@@ -88,6 +89,23 @@ Combines fruit localization and pathology grading into a single cloud microservi
 </details>
 
 <details>
+<summary><b>Inside Hologram Vision & Gesture Suite</b>: real-time spatial vision & 3D geometry synthesis</summary>
+
+<br>
+
+```mermaid
+flowchart LR
+    A["Webcam Video Feed<br/>RGB 60fps Input"] --> B["MediaPipe Hands<br/>21 3D Spatial Landmarks"]
+    B --> C["Kinematic Gesture Engine<br/>Vector Angles & Pinch Tracking"]
+    C --> D["Hologram Matrix<br/>Sacred Geometry & 3D Mesh"]
+    D --> E["Real-Time Audio-Visual Canvas<br/>Pygame · Three.js · Sub-30ms Latency"]
+```
+
+Real-time spatial computer vision framework translating hand landmarks into interactive 3D holograms (laser energy beams, cyber cubes, and AR biometric scanners) with dynamic gesture combos, state-machine freezing, and dual desktop / FastAPI web deployment.
+
+</details>
+
+<details>
 <summary><b>Inside the Analytics Dashboards</b>: interactive visual telemetry</summary>
 
 <br>
@@ -114,10 +132,10 @@ Combines fruit localization and pathology grading into a single cloud microservi
 
 | Area | What I use |
 |---|---|
-| AI and Vision | Python, PyTorch, YOLOv8, ResNet-50, OpenCV, Scikit-learn, RAG, LLMs, Document OCR |
+| AI and Vision | Python, PyTorch, YOLOv8, ResNet-50, OpenCV, MediaPipe, Hand Tracking, Scikit-learn, RAG, LLMs, Document OCR |
 | Data and BI | Microsoft Fabric, Power BI, DAX, Power Query, SQL Server, PostgreSQL, MongoDB, Pandas, NumPy |
 | Backend and APIs | FastAPI, RESTful APIs, JWT Authentication, RBAC, Python AsyncIO, Node.js |
-| Front-end and Design | React 19, Vite, Tailwind CSS, JavaScript, HTML5/CSS3, UI/UX Design |
+| Front-end and Design | React 19, Three.js, Vite, Tailwind CSS, JavaScript, HTML5/CSS3, UI/UX Design |
 | Cloud and DevOps | Microsoft Azure, AWS, Docker, Git, GitHub, Linux, Postman |
 
 ## Credentials
