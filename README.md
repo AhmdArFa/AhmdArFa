@@ -47,6 +47,7 @@ flowchart LR
 | Project | What it is | Stack |
 |---|---|---|
 | [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
+| [**Ministry AI Document Intelligence**](https://github.com/AhmdArFa/mcit-ai-notebooklm) | Local-first public-sector document intelligence suite: grounded briefings with page citations, editable PPTX decks & SVG infographics. | Qwen3 4B, BGE-M3, Ollama, RAG, FastAPI, React |
 | [**BASEERA (بصيرة) — AI Assistive Kinetic Suite**](https://github.com/AhmdArFa/hand-automation) | Open-source humanitarian vision suite: Arabic sign-to-speech, motor rehab clinic, air mouse, and touchless DICOM viewer. | MediaPipe WASM, OpenCV, Python, Three.js, FastAPI |
 | [**NILEX.AI**](https://github.com/AhmdArFa/Nilex-Web) | Smart agro-export decision-support system featuring sub-3s YOLOv8n fruit detection and ResNet-50 citrus disease classification. | PyTorch, YOLOv8, ResNet-50, Azure, Power BI, FastAPI |
 | **Pizza Sales BI Dashboard** | Executive Business Intelligence dashboard analyzing $817.8K+ revenue, 48.6K+ orders, and operational KPIs. | Power BI, DAX Measures, Power Query, Data Modeling |
@@ -68,6 +69,30 @@ flowchart LR
 ```
 
 Designed to solve synchronization bottlenecks in government scholarship auditing, the platform features a **Dual-Sync engine** linking MongoDB with supervisor Excel sheets without file corruption, complemented by a **Self-Healing Master Admin** recovery routine.
+
+</details>
+
+<details>
+<summary><b>Inside Ministry AI Document Intelligence</b>: local-first RAG & multi-format generative pipeline</summary>
+
+<br>
+
+```mermaid
+flowchart TD
+    A["Ministry Document<br/>(PDF · DOCX · PPTX)"] --> B["Multi-Format Parser<br/>Page & Table Mapping"]
+    B --> C["Ollama BGE-M3<br/>Local 1024-d Semantic Embeddings"]
+    C --> D["Grounded RAG Retrieval<br/>Strict Source Verification"]
+    D --> E["Quantized Qwen3 4B<br/>Structured Knowledge Synthesis"]
+    
+    E --> F1["📄 Grounded Briefing<br/>Page/Slide Verified Citations"]
+    E --> F2["📊 Editable PPTX Deck<br/>python-pptx OpenXML Engine"]
+    E --> F3["📐 5 Vector Infographics<br/>Pure SVG Visual Archetypes"]
+```
+
+**Core Architectural Innovations:**
+- **Zero-Cloud On-Premise Privacy**: Runs locally on quantized models (`qwen3:4b-instruct` + `bge-m3:latest` via Ollama) with a compact 2.5 GB footprint and ~5.7s latency on standard CPU hardware.
+- **Separation of Understanding from Generation**: Eliminates hallucinations by anchoring every finding, metric, and recommendation directly to original document page/slide citations.
+- **Enterprise Asset Synthesis**: Transforms unstructured public-sector documents into boardroom-ready `.pptx` decks and vector SVG diagrams across 5 visual archetypes (Process, Timeline, Comparison, KPI Grid, Hierarchy).
 
 </details>
 
@@ -139,8 +164,8 @@ Combines fruit localization and pathology grading into a single cloud microservi
 
 | Area | What I use |
 |---|---|
-| AI and Vision | Python, PyTorch, YOLOv8, ResNet-50, OpenCV, MediaPipe, Hand Tracking, Scikit-learn, RAG, LLMs, Document OCR |
-| Data and BI | Microsoft Fabric, Power BI, DAX, Power Query, SQL Server, PostgreSQL, MongoDB, Pandas, NumPy |
+| AI and Vision | Python, PyTorch, YOLOv8, ResNet-50, OpenCV, MediaPipe, Ollama, Qwen3, BGE-M3, Scikit-learn, Local RAG, LLMs, OCR |
+| Data and BI | Microsoft Fabric, Power BI, DAX, Power Query, SQL Server, PostgreSQL, MongoDB, Pandas, NumPy, python-pptx |
 | Backend and APIs | FastAPI, RESTful APIs, JWT Authentication, RBAC, Python AsyncIO, Node.js |
 | Front-end and Design | React 19, Three.js, Vite, Tailwind CSS, JavaScript, HTML5/CSS3, UI/UX Design |
 | Cloud and DevOps | Microsoft Azure, AWS, Docker, Git, GitHub, Linux, Postman |
