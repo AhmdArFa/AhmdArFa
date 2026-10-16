@@ -94,7 +94,7 @@ flowchart TD
 - **Zero-Cloud On-Premise Privacy**: Runs locally on quantized models (`qwen3:4b-instruct` + `bge-m3:latest` via Ollama) with a compact 2.5 GB footprint and ~5.7s latency on standard CPU hardware.
 - **Separation of Understanding from Generation**: Eliminates hallucinations by anchoring every finding, metric, and recommendation directly to original document page/slide citations.
 - **Enterprise Asset Synthesis**: Transforms unstructured public-sector documents into boardroom-ready `.pptx` decks and vector SVG diagrams across 5 visual archetypes (Process, Timeline, Comparison, KPI Grid, Hierarchy).
-<details>
+</details> <details>
 <summary><b>Inside MCIT AI Platform</b>: sovereign agentic workspace</summary>
 
 <br>
@@ -160,7 +160,7 @@ Combines fruit localization and pathology grading into a single cloud microservi
   <br><sub><b>Figure 3:</b> Supervised ML Diagnostic Matrix & Multi-Class Classification Performance</sub>
 </p>
 
-</details>
+
 
 ## How I work
 
