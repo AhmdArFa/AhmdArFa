@@ -14,7 +14,7 @@ Today I'm a **Data & AI Engineer** and core engineering contributor to the **DEP
 name:        Ahmed Gamal Arfa
 now:         Data & AI Engineer · DEPI Applicant Validation Platform (MCIT)
 before:      Full-Stack Developer · Data Analyst & BI Specialist
-focus:       data pipelines · computer vision · LLMs & RAG · business intelligence · APIs
+focus:       data pipelines · computer vision · LLMs & RAG · agentic AI · business intelligence · APIs
 location:    Cairo, Egypt
 languages:   Arabic (native), English (professional working)
 ```
@@ -46,6 +46,7 @@ flowchart LR
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**MCIT AI Platform**](https://github.com/AhmdArFa/MCIT-AI-Platform) | The ministry's private AI workspace — a local-first, NotebookLM-style platform: Tut Agent (multi-step agent with tools, skills, memory, multi-agent groups), Studio document pipelines, and ONLYOFFICE editing. | TypeScript, Next.js, FastAPI, SurrealDB, Ollama, MCP, Docker | 
 | [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
 | [**Ministry AI Document Intelligence**](https://github.com/AhmdArFa/mcit-ai-notebooklm) | Local-first public-sector document intelligence suite: grounded briefings with page citations, editable PPTX decks & SVG infographics. | Qwen3 4B, BGE-M3, Ollama, RAG, FastAPI, React |
 | [**BASEERA (بصيرة) — AI Assistive Kinetic Suite**](https://github.com/AhmdArFa/hand-automation) | Open-source humanitarian vision suite: Arabic sign-to-speech, motor rehab clinic, air mouse, and touchless DICOM viewer. | MediaPipe WASM, OpenCV, Python, Three.js, FastAPI |
@@ -93,6 +94,14 @@ flowchart TD
 - **Zero-Cloud On-Premise Privacy**: Runs locally on quantized models (`qwen3:4b-instruct` + `bge-m3:latest` via Ollama) with a compact 2.5 GB footprint and ~5.7s latency on standard CPU hardware.
 - **Separation of Understanding from Generation**: Eliminates hallucinations by anchoring every finding, metric, and recommendation directly to original document page/slide citations.
 - **Enterprise Asset Synthesis**: Transforms unstructured public-sector documents into boardroom-ready `.pptx` decks and vector SVG diagrams across 5 visual archetypes (Process, Timeline, Comparison, KPI Grid, Hierarchy).
+<details>
+<summary><b>Inside MCIT AI Platform</b>: sovereign agentic workspace</summary>
+
+<br>
+
+Think **Google NotebookLM, but fully local and sovereign** — built for the Ministry of Communications and Information Technology. **Tut Agent** is a multi-step agent with tool calling, skills, knowledge bases, long-term memory and multi-agent groups, orchestrated over MCP. **Studio** turns notebooks into finished deliverables (presentations, reports, infographics, spreadsheets) through headless Craft engines, with ONLYOFFICE Docs for in-place editing. One OIDC sign-in, per-account isolated databases and storage, zero cloud dependency.
+
+</details>
 
 </details>
 
