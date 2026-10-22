@@ -183,6 +183,7 @@ Combines fruit localization and pathology grading into a single cloud microservi
 
 - **Microsoft Certified: Fabric Analytics Engineer Associate** (2026–2027)
 - **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (2026–2027)
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)** (2026)
 - **Google Data Analytics Professional Certificate** (Complete 8-Course Specialization, 2026)
   - [Foundations: Data, Data, Everywhere](https://coursera.org/verify/S23651PTKDWB) · [Ask Questions to Make Decisions](https://coursera.org/verify/YOR8X7CUIG9K)
   - [Prepare Data for Exploration](https://coursera.org/verify/KQN3572RFIWW) · [Process Data from Dirty to Clean](https://coursera.org/verify/NV6IXEMV2XKY)
