@@ -47,6 +47,9 @@ flowchart LR
 | Project | What it is | Stack |
 |---|---|---|
 | [**MCIT AI Platform**](https://github.com/AhmdArFa/MCIT-AI-Platform) | The ministry's private AI workspace — a local-first, NotebookLM-style platform: Tut Agent (multi-step agent with tools, skills, memory, multi-agent groups), Studio document pipelines, and ONLYOFFICE editing. | TypeScript, Next.js, FastAPI, SurrealDB, Ollama, MCP, Docker | 
+| [**TuT AI](https://github.com/AhmdArFa/TuT-AI) | Sovereign local AI platform for MCIT: cited deep document summaries, autonomous editable PowerPoint generation (DeckCraft), vector infographics (VectorCraft), and a 3D holographic cartouche, 100% offline on local infrastructure. | TypeScript, Next.js, FastAPI, Ollama, Docker |
+| [**AI Personal Assistant Agent](https://github.com/AhmdArFa/AI-Personal-Assistant-Agent) | General-purpose personal assistant agent: LangGraph-ready orchestrator that plans, chooses tools, executes, observes and verifies under step, time and permission limits, with tenant-scoped resumable runs and approval-bound external actions. | Python, FastAPI, PostgreSQL |
+| [**AI Marketing Agent](https://github.com/AhmdArFa/AI-Marketing-Agent) | Agent with a real planning brain for marketing: lead scoring, retention campaigns and content planning from domain data, with claim guardrails, a prompt-injection shield and a human approval gate; built first for Vo Technology 4S PLUS, packaged for any company via domain profiles. | Python, FastAPI, TypeScript, Next.js |
 | [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
 | [**Ministry AI Document Intelligence**](https://github.com/AhmdArFa/mcit-ai-notebooklm) | Local-first public-sector document intelligence suite: grounded briefings with page citations, editable PPTX decks & SVG infographics. | Qwen3 4B, BGE-M3, Ollama, RAG, FastAPI, React |
 | [**BASEERA (بصيرة) — AI Assistive Kinetic Suite**](https://github.com/AhmdArFa/hand-automation) | Open-source humanitarian vision suite: Arabic sign-to-speech, motor rehab clinic, air mouse, and touchless DICOM viewer. | MediaPipe WASM, OpenCV, Python, Three.js, FastAPI |
@@ -104,9 +107,36 @@ Think **Google NotebookLM, but fully local and sovereign** — built for the Min
 </details>
 
 </details>
+<
+<details>
+    <summary><b>Inside TuT AI</b>: sovereign local intelligence workspace</summary>
+
+    <br>
+
+    Built from scratch as Egypt's sovereign enterprise AI platform for MCIT under DEPI: 100% offline, zero data leaves local infrastructure. Deep summarization turns large ministerial documents into structured executive digests with numbered passage citations; DeckCraft generates complete editable PowerPoint decks from in-chat prompts; VectorCraft renders vector infographics; a 131,072-token context runs on pinned local models (gemma4:e4b in RTX 4050 VRAM) with a turnkey 1-click Docker bootstrap. Like Google NotebookLM, but fully local and sovereign.
+    
+</details>
 
 <details>
-<summary><b>Inside BASEERA (بصيرة)</b>: clinical kinetic vision & edge accessibility architecture</summary>
+    <summary><b>Inside AI Personal Assistant Agent</b>: orchestrator with limits and permissions</summary>
+
+        <br>
+
+        A general-purpose agent built step by step from a controller: the orchestrator understands intent, plans, chooses tools, executes, observes, verifies, and asks the user when it cannot proceed. Every run is bounded (12 steps, 60 seconds, 2 retries and 2 replans by default) and every tool carries a permission level: reads run automatically, external effects and sensitive actions need approval bound to the exact arguments by hash. Runs are checkpointed after every observation and resumable under the same tenant, with traces and audit events redacted so secrets never reach storage. A FastAPI task and chat API, Postgres tenancy, a model gateway with budget shares, and a bilingual evaluation suite sit on top of the core.
+        
+        <details>
+</details>
+
+<summary><b>Inside AI Marketing Agent</b>: a brain that plans, with numbers from code</summary>
+
+   <br>
+
+   A marketing agent whose brain recalls memory, picks skills from declarative manifests, runs compute tools, passes drafts through claim guardrails, and returns mutations only as pending approvals: it has no code path that sends or publishes anything on its own. Seven skills cover lead scoring, dealer retention, campaign analysis and drafting, content calendars and briefs. Numbers (CPA, ROAS, lead scores, segments) come from tested code, never from a model; a prompt-injection shield blocks approvals on flagged runs. A TypeScript orchestrator, a Python FastAPI engine and a Next.js Brain Console serve the first domain, Vo Technology 4S PLUS, while domain profiles let any company reuse it.
+
+        </details>
+        
+        <details>
+        <summary><b>Inside BASEERA (بصيرة)</b>: clinical kinetic vision & edge accessibility architecture</summary>
 
 <br>
 
