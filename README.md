@@ -128,7 +128,7 @@ Think **Google NotebookLM, but fully local and sovereign** — built for the Min
         <details>
 </details>
 <details>
-    <summary><b>Inside ARFA AAPA</b>b>: governed Business Q&A, demo edition</summary>
+    <summary><b>Inside ARFA AAPA</b>: governed Business Q&A, demo edition</summary>
 
     <br>
 
