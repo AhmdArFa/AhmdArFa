@@ -49,6 +49,7 @@ flowchart LR
 | [**MCIT AI Platform**](https://github.com/AhmdArFa/MCIT-AI-Platform) | The ministry's private AI workspace — a local-first, NotebookLM-style platform: Tut Agent (multi-step agent with tools, skills, memory, multi-agent groups), Studio document pipelines, and ONLYOFFICE editing. | TypeScript, Next.js, FastAPI, SurrealDB, Ollama, MCP, Docker | 
 | [**TuT AI](https://github.com/AhmdArFa/TuT-AI) | Sovereign local AI platform for MCIT: cited deep document summaries, autonomous editable PowerPoint generation (DeckCraft), vector infographics (VectorCraft), and a 3D holographic cartouche, 100% offline on local infrastructure. | TypeScript, Next.js, FastAPI, Ollama, Docker |
 | [**AI Personal Assistant Agent](https://github.com/AhmdArFa/AI-Personal-Assistant-Agent) | General-purpose personal assistant agent: LangGraph-ready orchestrator that plans, chooses tools, executes, observes and verifies under step, time and permission limits, with tenant-scoped resumable runs and approval-bound external actions. | Python, FastAPI, PostgreSQL |
+| [**ARFA AAPA — Business Q&A (Demo)**](https://github.com/AhmdArFa/ARFA_AAPA) | Business Q&A assistant for the head manager, demo edition: answers Arabic business questions from governed metrics with the number, period, definition and source, and abstains instead of guessing; synthetic demo data only, no real company data. | Python, SQLite (read-only), standard library only |
 | [**AI Marketing Agent](https://github.com/AhmdArFa/AI-Marketing-Agent) | Agent with a real planning brain for marketing: lead scoring, retention campaigns and content planning from domain data, with claim guardrails, a prompt-injection shield and a human approval gate; built first for Vo Technology 4S PLUS, packaged for any company via domain profiles. | Python, FastAPI, TypeScript, Next.js |
 | [**DEPI Applicant Validation Solution**](https://github.com/MCIT-DEPI/DEPI-Validation-Solution) | National applicant verification and document audit platform for MCIT DEPI with OCR inspection and dual-sync engine. | FastAPI, MongoDB, React 19, Vite, OCR |
 | [**Ministry AI Document Intelligence**](https://github.com/AhmdArFa/mcit-ai-notebooklm) | Local-first public-sector document intelligence suite: grounded briefings with page citations, editable PPTX decks & SVG infographics. | Qwen3 4B, BGE-M3, Ollama, RAG, FastAPI, React |
@@ -126,7 +127,15 @@ Think **Google NotebookLM, but fully local and sovereign** — built for the Min
         
         <details>
 </details>
+<details>
+    <summary><b>Inside ARFA AAPA</b>b>: governed Business Q&A, demo edition</summary>
 
+    <br>
+
+    A head-manager Business Q&A demo: the manager asks in Arabic, the unified agent routes to exactly one fixed, governed metric template (profit, warehouse, CRM, employee performance and company domains), and every answer carries its value, period, definition and source tables. If the evidence is not enough, it abstains instead of guessing, and sensitive questions (salaries, phones, national IDs, passwords) are out of scope by design. The demo runs on deterministic synthetic 4S data (seed 42, local read-only SQLite, Python standard library only, no external model service), with a local Arabic RTL web UI and 62 passing tests. Demo only: no real company data, no collected manager questions, and Vo Technology is the agreed pilot for a later phase, not a data source here.
+
+    </details>
+    
 <summary><b>Inside AI Marketing Agent</b>: a brain that plans, with numbers from code</summary>
 
    <br>
